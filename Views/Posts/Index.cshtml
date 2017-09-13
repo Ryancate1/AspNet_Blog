@@ -1,0 +1,76 @@
+﻿@model IEnumerable<rcate_blog.Models.Post>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@if (User.IsInRole("Admin"))
+{
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+}
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Body)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Created)
+        </th>
+        @*<th>
+            @Html.DisplayNameFor(model => model.Update)
+        </th>*@
+        <th>
+            @Html.DisplayNameFor(model => model.MediaUrl)
+        </th>
+        @*<th>
+            @Html.DisplayNameFor(model => model.Published)
+        </th>*@
+        @*<th>
+            @Html.DisplayNameFor(model => model.Slug)
+        </th>*@
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Title)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Body)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Created)
+        </td>
+        @*<td>
+            @Html.DisplayFor(modelItem => item.Update)
+        </td>*@
+        <td>
+            @Html.DisplayFor(modelItem => item.MediaUrl)
+        </td>
+        @*<td>
+            @Html.DisplayFor(modelItem => item.Published)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Slug)
+        </td>*@
+        <td>
+            @Html.ActionLink("Details", "Details", new { slug = item.Slug })
+            <br />
+            @if (User.IsInRole("Admin"))
+            {
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id })<br />
+            @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+            }
+        </td>
+    </tr>
+}
+
+</table>
