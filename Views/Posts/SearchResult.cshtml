@@ -1,0 +1,32 @@
+﻿@model rcate_blog.Models.Post
+
+@{ 
+    ViewBag.Title = "SearchResult";
+}
+
+@*@foreach (var item in Model)
+{
+    <div class="container" style="padding:15px">
+        <div class="row">
+            <div class="col-lg-8 col-md-10 mx-auto">
+                <div class="post-preview">
+                    <a href="@Url.Action("Details", "Posts", new { slug = item.Slug })">
+                        <h2 class="post-title" style="text-align:center">
+                            @Html.DisplayFor(modelItem => item.Title)
+                        </h2>
+                    </a>
+                </div>
+
+                @if (User.IsInRole("Admin"))
+                {
+                    @Html.ActionLink("Edit", "Edit", new { id = item.id })<br />
+                    <a class="text-danger" href="@Url.Action("Delete", "Posts", new { id = item.id })">Delete</a>
+                }
+
+                <hr />
+
+            </div>
+        </div>
+    </div>
+
+}*@

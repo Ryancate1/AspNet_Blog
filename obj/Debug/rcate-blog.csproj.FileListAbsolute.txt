@@ -1,192 +1,182 @@
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/obj/Debug/rcate-blog.csprojResolveAssemblyReference.cache
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/obj/Debug/rcate-blog.csproj.CoreCompileInputs.cache
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/obj/Debug/rcate-blog.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/obj/Debug/rcate-blog.pdb
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/ApplicationInsights.config
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/roslyn/csc.exe
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/roslyn/csc.exe.config
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/roslyn/csc.rsp
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/roslyn/csi.exe
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/roslyn/csi.rsp
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/roslyn/Microsoft.CodeAnalysis.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/roslyn/Microsoft.CSharp.Core.targets
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/roslyn/Microsoft.VisualBasic.Core.targets
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/roslyn/System.AppContext.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/roslyn/System.Collections.Immutable.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/roslyn/System.Diagnostics.StackTrace.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/roslyn/System.IO.FileSystem.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/roslyn/System.IO.FileSystem.Primitives.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/roslyn/System.Reflection.Metadata.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/roslyn/vbc.exe
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/roslyn/vbc.exe.config
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/roslyn/vbc.rsp
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/roslyn/VBCSCompiler.exe
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/roslyn/VBCSCompiler.exe.config
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/rcate-blog.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/rcate-blog.pdb
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Antlr3.Runtime.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/EntityFramework.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/EntityFramework.SqlServer.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.AI.Agent.Intercept.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.AI.DependencyCollector.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.AI.PerfCounterCollector.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.AI.ServerTelemetryChannel.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.AI.Web.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.AI.WindowsServer.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.ApplicationInsights.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.AspNet.Identity.Core.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.AspNet.Identity.EntityFramework.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.AspNet.Identity.Owin.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.Owin.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.Owin.Host.SystemWeb.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.Owin.Security.Cookies.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.Owin.Security.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.Owin.Security.Facebook.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.Owin.Security.Google.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.Owin.Security.MicrosoftAccount.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.Owin.Security.OAuth.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.Owin.Security.Twitter.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.Web.Infrastructure.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Newtonsoft.Json.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Owin.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/System.Web.Helpers.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/System.Web.Mvc.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/System.Web.Optimization.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/System.Web.Razor.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/System.Web.WebPages.Deployment.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/System.Web.WebPages.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/System.Web.WebPages.Razor.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/WebGrease.dll
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/System.Web.Helpers.xml
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/System.Web.Mvc.xml
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/System.Web.Optimization.xml
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/System.Web.Razor.xml
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/System.Web.WebPages.xml
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/System.Web.WebPages.Deployment.xml
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/System.Web.WebPages.Razor.xml
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Antlr3.Runtime.pdb
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Newtonsoft.Json.xml
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/EntityFramework.xml
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/EntityFramework.SqlServer.xml
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.AspNet.Identity.Core.xml
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.AspNet.Identity.Owin.xml
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.AspNet.Identity.EntityFramework.xml
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.Owin.xml
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.Owin.Host.SystemWeb.xml
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.Owin.Security.xml
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.Owin.Security.Facebook.xml
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.Owin.Security.Cookies.xml
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.Owin.Security.OAuth.xml
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.Owin.Security.Google.xml
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.Owin.Security.Twitter.xml
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.Owin.Security.MicrosoftAccount.xml
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.ApplicationInsights.xml
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.AI.DependencyCollector.xml
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.AI.ServerTelemetryChannel.xml
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.AI.WindowsServer.xml
-/Volumes/RYANSUSB/rcate-blog/rcate-blog/bin/Microsoft.AI.Web.xml
-V:\rcate-blog\rcate-blog\bin\ApplicationInsights.config
-V:\rcate-blog\rcate-blog\bin\roslyn\csc.exe
-V:\rcate-blog\rcate-blog\bin\roslyn\csc.exe.config
-V:\rcate-blog\rcate-blog\bin\roslyn\csc.rsp
-V:\rcate-blog\rcate-blog\bin\roslyn\csi.exe
-V:\rcate-blog\rcate-blog\bin\roslyn\csi.rsp
-V:\rcate-blog\rcate-blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-V:\rcate-blog\rcate-blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-V:\rcate-blog\rcate-blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-V:\rcate-blog\rcate-blog\bin\roslyn\Microsoft.CodeAnalysis.dll
-V:\rcate-blog\rcate-blog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-V:\rcate-blog\rcate-blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-V:\rcate-blog\rcate-blog\bin\roslyn\Microsoft.CSharp.Core.targets
-V:\rcate-blog\rcate-blog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-V:\rcate-blog\rcate-blog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-V:\rcate-blog\rcate-blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
-V:\rcate-blog\rcate-blog\bin\roslyn\System.AppContext.dll
-V:\rcate-blog\rcate-blog\bin\roslyn\System.Collections.Immutable.dll
-V:\rcate-blog\rcate-blog\bin\roslyn\System.Diagnostics.StackTrace.dll
-V:\rcate-blog\rcate-blog\bin\roslyn\System.IO.FileSystem.dll
-V:\rcate-blog\rcate-blog\bin\roslyn\System.IO.FileSystem.Primitives.dll
-V:\rcate-blog\rcate-blog\bin\roslyn\System.Reflection.Metadata.dll
-V:\rcate-blog\rcate-blog\bin\roslyn\vbc.exe
-V:\rcate-blog\rcate-blog\bin\roslyn\vbc.exe.config
-V:\rcate-blog\rcate-blog\bin\roslyn\vbc.rsp
-V:\rcate-blog\rcate-blog\bin\roslyn\VBCSCompiler.exe
-V:\rcate-blog\rcate-blog\bin\roslyn\VBCSCompiler.exe.config
-V:\rcate-blog\rcate-blog\bin\rcate-blog.dll.config
-V:\rcate-blog\rcate-blog\bin\rcate-blog.dll
-V:\rcate-blog\rcate-blog\bin\rcate-blog.pdb
-V:\rcate-blog\rcate-blog\bin\Antlr3.Runtime.dll
-V:\rcate-blog\rcate-blog\bin\EntityFramework.dll
-V:\rcate-blog\rcate-blog\bin\EntityFramework.SqlServer.dll
-V:\rcate-blog\rcate-blog\bin\Microsoft.AI.Agent.Intercept.dll
-V:\rcate-blog\rcate-blog\bin\Microsoft.AI.DependencyCollector.dll
-V:\rcate-blog\rcate-blog\bin\Microsoft.AI.PerfCounterCollector.dll
-V:\rcate-blog\rcate-blog\bin\Microsoft.AI.ServerTelemetryChannel.dll
-V:\rcate-blog\rcate-blog\bin\Microsoft.AI.Web.dll
-V:\rcate-blog\rcate-blog\bin\Microsoft.AI.WindowsServer.dll
-V:\rcate-blog\rcate-blog\bin\Microsoft.ApplicationInsights.dll
-V:\rcate-blog\rcate-blog\bin\Microsoft.AspNet.Identity.Core.dll
-V:\rcate-blog\rcate-blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-V:\rcate-blog\rcate-blog\bin\Microsoft.AspNet.Identity.Owin.dll
-V:\rcate-blog\rcate-blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-V:\rcate-blog\rcate-blog\bin\Microsoft.Owin.dll
-V:\rcate-blog\rcate-blog\bin\Microsoft.Owin.Host.SystemWeb.dll
-V:\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.Cookies.dll
-V:\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.dll
-V:\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.Facebook.dll
-V:\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.Google.dll
-V:\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-V:\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.OAuth.dll
-V:\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.Twitter.dll
-V:\rcate-blog\rcate-blog\bin\Microsoft.Web.Infrastructure.dll
-V:\rcate-blog\rcate-blog\bin\Newtonsoft.Json.dll
-V:\rcate-blog\rcate-blog\bin\Owin.dll
-V:\rcate-blog\rcate-blog\bin\System.Web.Helpers.dll
-V:\rcate-blog\rcate-blog\bin\System.Web.Mvc.dll
-V:\rcate-blog\rcate-blog\bin\System.Web.Optimization.dll
-V:\rcate-blog\rcate-blog\bin\System.Web.Razor.dll
-V:\rcate-blog\rcate-blog\bin\System.Web.WebPages.Deployment.dll
-V:\rcate-blog\rcate-blog\bin\System.Web.WebPages.dll
-V:\rcate-blog\rcate-blog\bin\System.Web.WebPages.Razor.dll
-V:\rcate-blog\rcate-blog\bin\WebGrease.dll
-V:\rcate-blog\rcate-blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-V:\rcate-blog\rcate-blog\bin\System.Web.Helpers.xml
-V:\rcate-blog\rcate-blog\bin\System.Web.Mvc.xml
-V:\rcate-blog\rcate-blog\bin\System.Web.Optimization.xml
-V:\rcate-blog\rcate-blog\bin\System.Web.Razor.xml
-V:\rcate-blog\rcate-blog\bin\System.Web.WebPages.xml
-V:\rcate-blog\rcate-blog\bin\System.Web.WebPages.Deployment.xml
-V:\rcate-blog\rcate-blog\bin\System.Web.WebPages.Razor.xml
-V:\rcate-blog\rcate-blog\bin\Antlr3.Runtime.pdb
-V:\rcate-blog\rcate-blog\bin\Newtonsoft.Json.xml
-V:\rcate-blog\rcate-blog\bin\EntityFramework.xml
-V:\rcate-blog\rcate-blog\bin\EntityFramework.SqlServer.xml
-V:\rcate-blog\rcate-blog\bin\Microsoft.AspNet.Identity.Core.xml
-V:\rcate-blog\rcate-blog\bin\Microsoft.AspNet.Identity.Owin.xml
-V:\rcate-blog\rcate-blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-V:\rcate-blog\rcate-blog\bin\Microsoft.Owin.xml
-V:\rcate-blog\rcate-blog\bin\Microsoft.Owin.Host.SystemWeb.xml
-V:\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.xml
-V:\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.Facebook.xml
-V:\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.Cookies.xml
-V:\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.OAuth.xml
-V:\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.Google.xml
-V:\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.Twitter.xml
-V:\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-V:\rcate-blog\rcate-blog\bin\Microsoft.ApplicationInsights.xml
-V:\rcate-blog\rcate-blog\bin\Microsoft.AI.DependencyCollector.xml
-V:\rcate-blog\rcate-blog\bin\Microsoft.AI.ServerTelemetryChannel.xml
-V:\rcate-blog\rcate-blog\bin\Microsoft.AI.WindowsServer.xml
-V:\rcate-blog\rcate-blog\bin\Microsoft.AI.Web.xml
-V:\rcate-blog\rcate-blog\obj\Debug\rcate-blog.dll
-V:\rcate-blog\rcate-blog\obj\Debug\rcate-blog.pdb
-V:\rcate-blog\rcate-blog\obj\Debug\rcate-blog.csprojResolveAssemblyReference.cache
+W:\my Projects 2\rcate-blog\rcate-blog\bin\ApplicationInsights.config
+W:\my Projects 2\rcate-blog\rcate-blog\bin\roslyn\csc.exe
+W:\my Projects 2\rcate-blog\rcate-blog\bin\roslyn\csc.exe.config
+W:\my Projects 2\rcate-blog\rcate-blog\bin\roslyn\csc.rsp
+W:\my Projects 2\rcate-blog\rcate-blog\bin\roslyn\csi.exe
+W:\my Projects 2\rcate-blog\rcate-blog\bin\roslyn\csi.rsp
+W:\my Projects 2\rcate-blog\rcate-blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\roslyn\Microsoft.CSharp.Core.targets
+W:\my Projects 2\rcate-blog\rcate-blog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+W:\my Projects 2\rcate-blog\rcate-blog\bin\roslyn\System.AppContext.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\roslyn\System.Collections.Immutable.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\roslyn\System.Diagnostics.StackTrace.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\roslyn\System.IO.FileSystem.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\roslyn\System.Reflection.Metadata.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\roslyn\vbc.exe
+W:\my Projects 2\rcate-blog\rcate-blog\bin\roslyn\vbc.exe.config
+W:\my Projects 2\rcate-blog\rcate-blog\bin\roslyn\vbc.rsp
+W:\my Projects 2\rcate-blog\rcate-blog\bin\roslyn\VBCSCompiler.exe
+W:\my Projects 2\rcate-blog\rcate-blog\bin\roslyn\VBCSCompiler.exe.config
+W:\my Projects 2\rcate-blog\rcate-blog\bin\rcate-blog.dll.config
+W:\my Projects 2\rcate-blog\rcate-blog\bin\rcate-blog.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\rcate-blog.pdb
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Antlr3.Runtime.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\EntityFramework.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\EntityFramework.SqlServer.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Microsoft.AI.Agent.Intercept.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Microsoft.AI.DependencyCollector.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Microsoft.AI.PerfCounterCollector.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Microsoft.AI.Web.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Microsoft.AI.WindowsServer.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Microsoft.ApplicationInsights.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Microsoft.AspNet.Identity.Core.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Microsoft.AspNet.Identity.Owin.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Microsoft.Owin.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.Cookies.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.Facebook.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.Google.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.OAuth.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.Twitter.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Microsoft.Web.Infrastructure.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Newtonsoft.Json.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Owin.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\System.Web.Helpers.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\System.Web.Mvc.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\System.Web.Optimization.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\System.Web.Razor.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\System.Web.WebPages.Deployment.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\System.Web.WebPages.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\System.Web.WebPages.Razor.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\WebGrease.dll
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+W:\my Projects 2\rcate-blog\rcate-blog\bin\System.Web.Helpers.xml
+W:\my Projects 2\rcate-blog\rcate-blog\bin\System.Web.Mvc.xml
+W:\my Projects 2\rcate-blog\rcate-blog\bin\System.Web.Razor.xml
+W:\my Projects 2\rcate-blog\rcate-blog\bin\System.Web.WebPages.xml
+W:\my Projects 2\rcate-blog\rcate-blog\bin\System.Web.WebPages.Deployment.xml
+W:\my Projects 2\rcate-blog\rcate-blog\bin\System.Web.WebPages.Razor.xml
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Antlr3.Runtime.pdb
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Newtonsoft.Json.xml
+W:\my Projects 2\rcate-blog\rcate-blog\bin\EntityFramework.xml
+W:\my Projects 2\rcate-blog\rcate-blog\bin\EntityFramework.SqlServer.xml
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Microsoft.AspNet.Identity.Core.xml
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Microsoft.AspNet.Identity.Owin.xml
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+W:\my Projects 2\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.Cookies.xml
+W:\my Projects 2\rcate-blog\rcate-blog\obj\Debug\rcate-blog.dll
+W:\my Projects 2\rcate-blog\rcate-blog\obj\Debug\rcate-blog.pdb
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\ApplicationInsights.config
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\roslyn\csc.exe
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\roslyn\csc.exe.config
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\roslyn\csc.rsp
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\roslyn\csi.exe
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\roslyn\csi.rsp
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\roslyn\System.AppContext.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\roslyn\vbc.exe
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\roslyn\vbc.exe.config
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\roslyn\vbc.rsp
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\rcate-blog.dll.config
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\rcate-blog.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\rcate-blog.pdb
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Antlr3.Runtime.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\EntityFramework.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\EntityFramework.SqlServer.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.AI.Web.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.Owin.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Newtonsoft.Json.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Owin.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\System.Web.Helpers.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\System.Web.Mvc.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\System.Web.Optimization.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\System.Web.Razor.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\System.Web.WebPages.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\WebGrease.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\System.Web.Helpers.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\System.Web.Mvc.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\System.Web.Optimization.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\System.Web.Razor.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\System.Web.WebPages.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Antlr3.Runtime.pdb
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Newtonsoft.Json.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\EntityFramework.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\EntityFramework.SqlServer.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.Owin.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\Microsoft.AI.Web.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\obj\Debug\rcate-blog.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\obj\Debug\rcate-blog.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\obj\Debug\rcate-blog.pdb
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\PagedList.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\PagedList.Mvc.dll
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\PagedList.xml
+C:\Users\Ryan\Documents\Visual Studio 2017\Projects\rcate-blog\rcate-blog\bin\PagedList.Mvc.xml

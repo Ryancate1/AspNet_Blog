@@ -12,6 +12,7 @@ namespace rcate_blog.Models
         public string PhoneNumber { get; set; }
         public bool TwoFactor { get; set; }
         public bool BrowserRemembered { get; set; }
+        public string EmailAddress { get; set; }
     }
 
     public class ManageLoginsViewModel
@@ -64,6 +65,14 @@ namespace rcate_blog.Models
         [Phone]
         [Display(Name = "Phone Number")]
         public string Number { get; set; }
+    }
+
+    public class AddEmailViewModel
+    {
+        [Required]
+        [EmailAddress]
+        [Display(Name = "Email Address")]
+        public string EmailAdress { get; set; }
     }
 
     public class VerifyPhoneNumberViewModel

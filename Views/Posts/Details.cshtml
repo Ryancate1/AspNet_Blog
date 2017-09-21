@@ -4,71 +4,52 @@
     ViewBag.Title = "Details";
 }
 
-<h2>Details</h2>
 
-<div>
-    <h4>Post</h4>
-    <hr />
-    <dl class="dl-horizontal">
-        <dt>
-            @Html.DisplayNameFor(model => model.Title)
-        </dt>
+        <h4 style="text-align:center">@Html.DisplayFor(model => model.Title)</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            @*<dd style="text-align:center">
+                <img style="max-width:250px;max-height:300px" src="@Url.Content(Model.MediaUrl)" />
+            </dd>*@
+            <dd>
+                @Html.Raw(Model.Body)
+            </dd>
 
-        <dd>
-            @Html.DisplayFor(model => model.Title)
-        </dd>
+            <br />
 
-        <dt>
-            @Html.DisplayNameFor(model => model.Body)
-        </dt>
+            <dd class="post-meta">
+                @Model.Created.ToString("d")
+            </dd>
+        </dl>
 
-        <dd>
-            @Html.DisplayFor(model => model.Body)
-        </dd>
+        <div class="pull-right">
+            <a href="#" class="btn btn-primary">Comments</a>
+        </div>
+    
 
-        <dt>
-            @Html.DisplayNameFor(model => model.Created)
-        </dt>
 
-        <dd>
-            @Html.DisplayFor(model => model.Created)
-        </dd>
+        @if (User.IsInRole("Admin"))
+        {
+            <a class="text-danger" href="@Url.Action("Delete", "Posts", new { id = Model.Id})">Delete</a><br />
 
-        <dt>
-            @Html.DisplayNameFor(model => model.Update)
-        </dt>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Id })<br />
+    }
+    @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-default" })
 
-        <dd>
-            @Html.DisplayFor(model => model.Update)
-        </dd>
+@foreach (var comment in Model.Comments)
+{
+    if (User.Identity.IsAuthenticated)
+    {
+        // 'CREATE COMMENT' SECTION
+    }
 
-        <dt>
-            @Html.DisplayNameFor(model => model.MediaUrl)
-        </dt>
+    <div style="border:1px solid black">
+        <h4>@Html.DisplayFor(modelcomment => comment.Title)</h4>
+        <span class="post-meta pull-right">@Html.DisplayFor(modelcomment => comment.Author.FullName)</span>
+        <p>@Html.DisplayFor(modelcomment => comment.Body)</p>
 
-        <dd>
-            @Html.DisplayFor(model => model.MediaUrl)
-        </dd>
-
-        <dt>
-            @Html.DisplayNameFor(model => model.Published)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.Published)
-        </dd>
-
-        <dt>
-            @Html.DisplayNameFor(model => model.Slug)
-        </dt>
-
-        <dd>
-            @Html.DisplayFor(model => model.Slug)
-        </dd>
-
-    </dl>
-</div>
-<p>
-    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
-    @Html.ActionLink("Back to List", "Index")
-</p>
+        <hr />
+        
+        <span class="post-meta">@Html.DisplayFor(modelcomment => comment.Created)</span>
+    </div>
+}

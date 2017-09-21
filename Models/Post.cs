@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using System.Web.Mvc;
 
 namespace rcate_blog.Models
 {
@@ -14,6 +15,7 @@ namespace rcate_blog.Models
 
         public int Id { get; set; }
         public string Title { get; set; }
+        [AllowHtml]
         public string Body { get; set; }
         public DateTime Created { get; set; }
         public DateTime? Update { get; set; }

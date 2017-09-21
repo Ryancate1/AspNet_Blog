@@ -10,7 +10,8 @@ using rcate_blog.Models;
 
 namespace rcate_blog.Controllers
 {
-    public class CommentsController : Controller
+    [RequireHttps]
+    public class CommentsController : Universal
     {
         private ApplicationDbContext db = new ApplicationDbContext();
 
@@ -52,8 +53,13 @@ namespace rcate_blog.Controllers
         [Authorize]
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "Id,PostId,AuthorId,Body,Updated,Reason")] Comment comment)
+        public ActionResult Create([Bind(Include = "Id,PostId,AuthorId,Body,Updated,Title,Reason")] Comment comment)
         {
+            if (User == null)
+            {
+                return RedirectToAction("Login", "Account");
+            }
+
             if (ModelState.IsValid)
             {
                 comment.Created = DateTime.Now;
@@ -63,7 +69,7 @@ namespace rcate_blog.Controllers
             }
 
             ViewBag.AuthorId = new SelectList(/*db.ApplicationUsers,*/ "Id", "FirstName", comment.AuthorId);
-            ViewBag.PostId = new SelectList(db.Posts, "Id", "Title", comment.PostId);
+            ViewBag.PostId = new SelectList(db.Posts, "Id", "Title", comment.Title);
             return View(comment);
         }
 
@@ -81,7 +87,7 @@ namespace rcate_blog.Controllers
                 return HttpNotFound();
             }
             ViewBag.AuthorId = new SelectList(/*db.ApplicationUsers,*/ "Id", "FirstName", comment.AuthorId);
-            ViewBag.PostId = new SelectList(db.Posts, "Id", "Title", comment.PostId);
+            ViewBag.PostId = new SelectList(db.Posts, "Id", "Title", comment.Title);
             return View(comment);
         }
 
@@ -100,7 +106,7 @@ namespace rcate_blog.Controllers
                 return RedirectToAction("Index");
             }
             ViewBag.AuthorId = new SelectList(/*db.ApplicationUsers,*/ "Id", "FirstName", comment.AuthorId);
-            ViewBag.PostId = new SelectList(db.Posts, "Id", "Title", comment.PostId);
+            ViewBag.PostId = new SelectList(db.Posts, "Id", "Title", comment.Title);
             return View(comment);
         }
 

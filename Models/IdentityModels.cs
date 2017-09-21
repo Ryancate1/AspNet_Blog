@@ -4,6 +4,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using System.Collections.Generic;
+using System.Web.Mvc;
 
 namespace rcate_blog.Models
 {
@@ -17,6 +18,7 @@ namespace rcate_blog.Models
             get
             {
                 return FirstName + " " + LastName;
+                
             }
         }
 

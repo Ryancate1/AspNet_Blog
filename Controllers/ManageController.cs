@@ -10,8 +10,9 @@ using rcate_blog.Models;
 
 namespace rcate_blog.Controllers
 {
+    [RequireHttps]
     [Authorize]
-    public class ManageController : Controller
+    public class ManageController : Universal
     {
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
@@ -129,6 +130,34 @@ namespace rcate_blog.Controllers
             }
             return RedirectToAction("VerifyPhoneNumber", new { PhoneNumber = model.Number });
         }
+
+        //// GET: /Manage/AddEmailAddress
+        //public ActionResult AddEmailAddress()
+        //{
+        //    return View();
+        //}
+
+        ////POST: /Manage/AddEmailAddress
+        //[HttpPost]
+        //[ValidateAntiForgeryToken]
+        //public async Task<ActionResult> AddEmailAddress(AddEmailViewModel model)
+        //{
+        //    if (!ModelState.IsValid)
+        //    {
+        //        return View(model);
+        //    }
+        //    //Generate the token and send it
+        //    var code = await UserManager.GenerateEmailConfirmationTokenAsync(User.Identity.GetUserId(), model.EmailAdress);
+        //    if (UserManager.EmailService != null)
+        //    {
+        //        var emailMessage = new IdentityMessage
+        //        {
+        //            Destination = model.EmailAdress,
+        //            Body = "Please verify this email address. If you did not request this email, please delete it." + code
+        //        };
+        //        await UserManager.IsEmailConfirmedAsync
+        //    }
+        //}
 
         //
         // POST: /Manage/EnableTwoFactorAuthentication

@@ -1,0 +1,39 @@
+﻿@model rcate_blog.Models.Post
+
+@{
+    ViewBag.Title = "Details";
+}
+
+
+        <h4 style="text-align:center">@Html.DisplayFor(model => model.Title)</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            @*<dd style="text-align:center">
+                <img style="max-width:250px;max-height:300px" src="@Url.Content(Model.MediaUrl)" />
+            </dd>*@
+            <dd>
+                @Html.Raw(Model.Body)
+            </dd>
+
+            <br />
+
+            <dd class="post-meta">
+                @Model.Created.ToString("d")
+            </dd>
+        </dl>
+
+        <div class="pull-right">
+            <a href="#" class="btn btn-primary">Comments</a>
+        </div>
+    
+
+
+<p>
+        @if (User.IsInRole("Admin"))
+        {
+            <a class="text-danger" href="@Url.Action("Delete", "Posts", new { id = Model.Id})">Delete</a><br />
+
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Id })<br />
+    }
+    @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-default" })
+</p>
